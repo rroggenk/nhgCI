@@ -18,7 +18,7 @@ It supports the following methods:
 
 - Crow & Gardner (CG)
 
-- Blakek
+- Blaker
 
 The package handles cases where either: - The number of successes (`M`)
 is unknown, or - The total population size (`N`) is unknown.
