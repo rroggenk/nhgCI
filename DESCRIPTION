@@ -17,3 +17,5 @@ Imports:
     data.table,
     extraDistr,
     stats
+URL: https://github.com/rroggenk/nhgCI
+BugReports: https://github.com/rroggenk/nhgCI/issues
