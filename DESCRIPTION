@@ -1,0 +1,19 @@
+Package: nhgCI
+Title: Confidence Intervals for Negative Hypergeometric Parameters
+Version: 0.0.0.9000
+Authors@R:
+    person("Rachel", "Roggenkemper", email = "rroggenk@calpoly.edu", role = c("aut", "cre"))
+Description: 
+    Provides functions to construct short exact confidence intervals for two of the parameters of 
+    negative hypergeometric distribution: (i) the number of successes (M) and (ii) the population 
+    size (N). Implements the following methods: Analog to the Clopper-Pearson, Conditional Minimal 
+    Cardinality (CMC), CG (Crow & Gardner), and Blaker.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    dplyr,
+    data.table,
+    extraDistr,
+    stats
