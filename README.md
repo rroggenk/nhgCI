@@ -10,7 +10,7 @@ The **nhgCI** package provides methods for constructing exact and
 approximate confidence intervals for the parameters of the Negative
 Hypergeometric distribution.
 
-It supports the follwoing methods:
+It supports the following methods:
 
 - Analog to Clopper-Pearson
 
@@ -29,10 +29,9 @@ You can install the development version from GitHub with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("your_github_username/nhgCI")
+devtools::install_github("rroggenk/nhgCI")
 ```
 
-Replace `"your_github_username"` with your actual GitHub username.
 
 ## Example
 
