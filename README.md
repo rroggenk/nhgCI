@@ -58,3 +58,6 @@ nhgCI_N(M = 10, m = 5, conf_level = 0.95, method = "CMC")
 
 Some computations (especially for large sample sizes or high precision)
 may take a while to complete.
+
+[![DOI](https://zenodo.org/badge/974013857.svg)](https://doi.org/10.5281/zenodo.15617252)
+
